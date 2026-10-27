@@ -23,3 +23,4 @@
 - 20-hiago: removes all letters c and C from the standard input.
 - 21-reverse: reverses the standard input.
 - 22-users_and_homes: displays all users and their home directories, sorted by users, based on the /etc/passwd file.
+- 23-empty_casks: finds all empty files and directories in the current directory and all sub-directories, displaying only their names.
