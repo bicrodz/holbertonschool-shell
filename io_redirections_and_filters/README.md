@@ -25,3 +25,4 @@
 - 22-users_and_homes: displays all users and their home directories, sorted by users, based on the /etc/passwd file.
 - 23-empty_casks: finds all empty files and directories in the current directory and all sub-directories, displaying only their names.
 - 24-gifs: lists all the regular files with a .gif extension in the current directory and its sub-directories, without extension, sorted case-insensitively by byte values.
+- 25-acrostic: decodes acrostics that use the first letter of each line, reading from the standard input.
