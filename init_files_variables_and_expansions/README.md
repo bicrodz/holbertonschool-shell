@@ -18,3 +18,4 @@
 - Task 15 blog post, What Happens When You Type ls *.c and Press Enter: https://www.linkedin.com/pulse/what-happens-when-you-type-ls-c-press-enter-brian-cruz-tcvke
 - 15-rot13: encodes and decodes text using the rot13 encryption, reading from the standard input.
 - 16-odd: prints every other line from the standard input, starting with the first line.
+- 17-water_and_stir: adds the numbers stored in WATER (base water) and STIR (base stir.) and prints the result in base bestchol.
