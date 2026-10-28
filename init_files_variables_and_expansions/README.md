@@ -17,3 +17,4 @@
 - 14-decimal_to_hexadecimal: converts the number in base 10 stored in the environment variable DECIMAL to base 16.
 - Task 15 blog post, What Happens When You Type ls *.c and Press Enter: https://www.linkedin.com/pulse/what-happens-when-you-type-ls-c-press-enter-brian-cruz-tcvke
 - 15-rot13: encodes and decodes text using the rot13 encryption, reading from the standard input.
+- 16-odd: prints every other line from the standard input, starting with the first line.
